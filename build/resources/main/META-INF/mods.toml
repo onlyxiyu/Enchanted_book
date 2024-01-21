@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT License"
+
+[[mods]]
+modId="exchanted_book"
+version="1.0.0"
+displayName="Exchanted Book"
+credits="fuck"
+displayURL="https://center.mcmod.cn/263370/"
+logoFile="logo.png"
+authors="God_xiyu"
+
+[[dependencies.exchanted_book]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.exchanted_book]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40.1.0]"
+    ordering="NONE"
+    side="BOTH"
+
+
+

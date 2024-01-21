@@ -1,0 +1,1 @@
+tellraw @p [{"text":"https://center.mcmod.cn/263370/","color":"blue","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"clickEvent":{"action":"open_url","value":"https://center.mcmod.cn/263370/"}}]
